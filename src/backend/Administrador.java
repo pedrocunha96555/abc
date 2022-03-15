@@ -16,5 +16,7 @@ public class Administrador extends Utilizador implements Serializable{
     //construtor
     public Administrador(String user, String passe, String nome){
       super(user,passe, nome);
+        
+        Olá
     }
 }
